@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
+name: QA
 about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+title: "[QA]"
+labels: bug
+assignees: qrio-kawamoto
 
 ---
 
